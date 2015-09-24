@@ -20,4 +20,4 @@ And add the following to your ckan.ini:
 
     ckan.plugins = ... apihelper
 
-
+Verify installation by visiting your CKAN's URL + /apihelper
